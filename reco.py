@@ -51,6 +51,7 @@ def reconnaissance_chiffre(image, chiffres):
 
 
 
+
 image =cv2.imread("compteur.jpg")
 #image = cv2.imread("deux.png")
 
