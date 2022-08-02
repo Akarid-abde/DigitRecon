@@ -1,7 +1,3 @@
-Packages nécessaires :
-numpy
-Pillow
-scikit-learn
-
-Commande console d'installation avec pip : 
-pip install nom_package
+Reconnaissance des images (Récuperation des chiffres) en python
+Image Recognition with python (digits)
+Recognizing digits with OpenCV and Python
